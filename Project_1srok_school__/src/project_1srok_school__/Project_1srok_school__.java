@@ -16,6 +16,7 @@ public class Project_1srok_school__ {
     public static void main(String[] args) {
         System.out.println("Hello java");
         System.out.println("hello.....");
+        
     }
     
 }
