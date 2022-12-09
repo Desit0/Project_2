@@ -17,6 +17,7 @@ public class Project_1srok_school__ {
         System.out.println("Hello java");
         System.out.println("hello.....");
         System.out.println("sss");
+        int a = 0;
     }
     
 }
